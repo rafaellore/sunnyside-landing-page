@@ -1,0 +1,18 @@
+/* Global styles */
+@import url("./global.css");
+@import url("./animation.css");
+
+/* Header */
+@import url("./header.css");
+
+/* Main */
+@import url("./main.css");
+
+/* Testimonials */
+@import url("./testimonials.css");
+
+/* Testimonials */
+@import url("./image-section.css");
+
+/* Footer */
+@import url("./footer.css");
